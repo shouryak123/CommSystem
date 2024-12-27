@@ -5,6 +5,8 @@ takes input from user and converts textfile,image or audio file into bits.User c
 <br>
 User can select between five different modulation schemes with different SNR values.
 <br> 
-QPSK,16-QAM,64-QAM,16-FSK, and 64-FSK. Creates 3 graphs - the  constellation diagram ,power spectral density and time domain signal- the graphs compare the modualtion with and without noise.
+QPSK,16-QAM,64-QAM,16-FSK, and 64-FSK. 
+<br>
+Creates 3 graphs - the  constellation diagram ,power spectral density and time domain signal- the graphs compare the modualtion with and without noise.
 <br>
 then it demodulates and decodes the bits and regenerates the inputed file.
